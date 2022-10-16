@@ -1,6 +1,5 @@
-# Repositório para estudos.
+# Repositório para estudar algumas tecnologias utilizadas no meu dia a dia de trabalho.
 
-## Tecnologias usadas:
 - Vite
 - React TS.
 - React Router
