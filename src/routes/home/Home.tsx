@@ -5,6 +5,7 @@ export default function PageHome() {
   return (
     <S.Container>
       <Navbar />
+      Wello Horld!
     </S.Container>
   );
 }
